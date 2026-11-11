@@ -1,0 +1,22 @@
+"Variable","Level","est","lo","hi"
+"Age group","20-39",3.5,2.6,4.8
+"Age group","40-59",15.3,13.4,17.4
+"Age group","60+",24.3,21.3,27.6
+"Sex","Male",15,13.5,16.7
+"Sex","Female",13.1,10.7,15.8
+"Race/ethnicity","Non-Hispanic White",12.4,10.6,14.5
+"Race/ethnicity","Non-Hispanic Black",22,18.7,25.7
+"Race/ethnicity","Hispanic",14.5,10.1,20.5
+"Race/ethnicity","Non-Hispanic Asian",11.6,8.4,15.9
+"Race/ethnicity","Other/Multiracial",16.6,12.9,21.1
+"BMI (kg/m2)","<25",5.6,4.6,7
+"BMI (kg/m2)","25-29.9",10.4,8.7,12.3
+"BMI (kg/m2)","30-34.9",18.9,15.6,22.8
+"BMI (kg/m2)",">=35",25.9,22,30.1
+"Income-to-poverty ratio","<1.3",17.2,13.4,21.8
+"Income-to-poverty ratio","1.3-3.49",16.9,14.5,19.5
+"Income-to-poverty ratio",">=3.5",9.9,8,12.2
+"Education","College graduate+",8.4,6.5,10.9
+"Education","Some college",14.7,13.1,16.4
+"Education","High school/GED",15.9,13.3,18.9
+"Education","Less than high school",26.4,22.6,30.5

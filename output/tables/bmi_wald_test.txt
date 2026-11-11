@@ -1,0 +1,4 @@
+Wald test for bmi_cat
+ in svyglm(formula = total_diabetes ~ bmi_cat + age_group + sex + 
+    race_eth + pir_cat + education, design = des_cc, family = quasibinomial())
+F =  88.52298  on  3  and  15  df: p= 9.1343e-10 
